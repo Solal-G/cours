@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HMIN205</string>
+    <string name="liste_rendu">Works list</string>
+    <string name="rendu_01_02_2021">Due for 01/02/2021</string>
+    <string name="text_vers_td">Towards TD 1</string>
+    <string name="text_vers_tp">Towards TP 1</string>
+    <string name="td1_exercice2">My first android app</string>
+    <string name="nom_tp1_4">Name</string>
+    <string name="prenom_tp1_4">FirstName</string>
+    <string name="ddn_tp1_4">Birthday</string>
+    <string name="ddc_tp1_4">Field of work</string>
+    <string name="tel_tp1_4">Phone number</string>
+    <string name="send_tp1_4">Send</string>
+    <string name="switch_langage">Change to French</string>
+    <string name="envoie">Details send</string>
+</resources>

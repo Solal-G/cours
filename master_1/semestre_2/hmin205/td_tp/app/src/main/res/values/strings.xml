@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HMIN205</string>
+    <string name="liste_rendu">Liste des rendus</string>
+    <string name="rendu_01_02_2021">Rendu 01/02/2021</string>
+    <string name="text_vers_td">Vers TD 1</string>
+    <string name="text_vers_tp">Vers TP 1</string>
+    <string name="td1_exercice2">Ma première application Android</string>
+    <string name="nom_tp1_4">Nom</string>
+    <string name="prenom_tp1_4">Prénom</string>
+    <string name="ddn_tp1_4">Date de naissance</string>
+    <string name="ddc_tp1_4">Domaine de compétence</string>
+    <string name="tel_tp1_4">Téléphone</string>
+    <string name="send_tp1_4">Envoyer</string>
+    <string name="switch_langage">Changer en Anglais</string>
+    <string name="envoie">Infos envoyées</string>
+</resources>
