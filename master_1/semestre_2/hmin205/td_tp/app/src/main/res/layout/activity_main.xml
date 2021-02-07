@@ -51,4 +51,34 @@
                 android:text="@string/text_vers_tp" />
         </LinearLayout>
     </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/titre_rendu_0802"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="15dp"
+            android:text="@string/rendu_08_02_2021"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_rendu_09_tp1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_vers_tp" />
+        </LinearLayout>
+
+    </LinearLayout>
 </LinearLayout>

@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Td_tp_1">
-        <activity android:name=".tp1_3_4_xml"></activity>
+        <activity android:name=".tp1_exercice8"></activity>
+        <activity android:name=".recapitulatif_inscription_exercice5" />
+        <activity android:name=".tp1_exercice_5" />
+        <activity android:name=".homepage_rendu_09_tp_1" />
+        <activity android:name=".tp1_3_4_xml" />
         <activity android:name=".tp1_3_4_java" />
         <activity android:name=".td1_exercice5" />
         <activity android:name=".td1_exercice4" />
@@ -26,5 +30,7 @@
             </intent-filter>
         </activity>
     </application>
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
 
 </manifest>

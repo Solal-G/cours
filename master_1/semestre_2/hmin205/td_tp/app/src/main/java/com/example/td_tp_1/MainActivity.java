@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         findViewById(R.id.rendu_btn_td_1).setOnClickListener(v -> {startActivity(new Intent(this,homepage_td_1.class));});
         findViewById(R.id.rendu_btn_tp_1).setOnClickListener(v -> {startActivity(new Intent(this,homepage_tp_1.class));});
+        findViewById(R.id.btn_rendu_09_tp1).setOnClickListener(v -> {startActivity(new Intent(this,homepage_rendu_09_tp_1.class));});
     }
 
 }
