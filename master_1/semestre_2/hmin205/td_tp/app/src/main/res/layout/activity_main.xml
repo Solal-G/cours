@@ -81,4 +81,33 @@
         </LinearLayout>
 
     </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/titre_rendu_"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="15dp"
+            android:text="@string/rendu_08_03_2021"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/button_vers_tp3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="VERS TP 3" />
+        </LinearLayout>
+
+    </LinearLayout>
 </LinearLayout>

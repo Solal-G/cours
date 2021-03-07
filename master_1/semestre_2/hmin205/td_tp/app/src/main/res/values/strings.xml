@@ -14,4 +14,10 @@
     <string name="switch_langage">Changer en Anglais</string>
     <string name="envoie">Infos envoyées</string>
     <string name="rendu_08_02_2021">Rendu 08/02/2021</string>
+    <string name="rendu_08_03_2021">Rendu 08/03/2021</string>
+    <string name="hint_age">Votre âge</string>
+    <string name="hint_nom">Votre nom</string>
+    <string name="hint_prenom">Votre prenom</string>
+    <string name="hint_telephone">Votre telephone</string>
+    <string name="hint_mdp">Votre mot de passe</string>
 </resources>
